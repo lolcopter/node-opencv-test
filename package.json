@@ -10,7 +10,10 @@
   "license": "BSD",
   "dependencies": {
     "express": "~3.2.0",
-    "opencv": "git://github.com/peterbraden/node-opencv.git#440a72",
-    "formidable": "~1.0.13"
+    "opencv": "git://github.com/peterbraden/node-opencv.git#440a72"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
   }
 }
