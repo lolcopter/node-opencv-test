@@ -1,0 +1,16 @@
+{
+  "name": "detectface",
+  "version": "0.0.1",
+  "description": "Node OpenCV test",
+  "scripts": {
+    "start": "node lib/server"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~3.2.0",
+    "opencv": "git://github.com/peterbraden/node-opencv.git#440a72",
+    "formidable": "~1.0.13"
+  }
+}
